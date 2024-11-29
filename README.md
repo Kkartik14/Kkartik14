@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
-<h3 align="center">A passionate ML developer and a Full-Stack Enthusiast.</h3>
+<h3 align="center">A passionate ML developer.</h3>
 
-- 🔭 I’m currently working on [Smart Ladle Tracking System](https://github.com/Team-Cyphers/real-time-ladle-tracking-system)
+- 🔭 I’m currently working on [SideKick](https://github.com/Kkartik14/Sidekick)
 
-- 🌱 I’m currently learning **Making Multiple models using Tensorflow**
+- 🌱 I’m currently learning **Agents building**
 
 - 📫 How to reach me **kartikgupta1474@gmail.com**
 
-- ⚡ Fun fact **I think I am the only one developing in tensorflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
