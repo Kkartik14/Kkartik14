@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
-<h3 align="center">A passionate ML developer.</h3>
+<h3 align="center">A passionate AI agents and Backend developer.</h3>
 
 - 📫 How to reach me **kartikgupta1474@gmail.com**
 
