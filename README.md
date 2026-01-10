@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Kartik Gupta</h1>
-<h3 align="center">AI agents and Backend developer</h3>
+# Hi 👋 I'm Kartik Gupta
+### AI Agents • Backend • Systems
 
-- 📫 How to reach me **kartikgupta1474@gmail.com**
+![Profile views](https://komarev.com/ghpvc/?username=Kkartik14&color=blue)
 
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkartik14&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kkartik14&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kkartik_14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kkartik_14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik-gupta14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-gupta14" height="30" width="40" /></a>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Kkartik14&theme=onedark&no-frame=true&row=1&column=6)
+
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 📬 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-gupta14/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/Kkartik_14)
