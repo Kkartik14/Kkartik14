@@ -1,14 +1,6 @@
 # Hi 👋 I'm Kartik Gupta
 ### AI Agents • Backend • Systems
 
-![Profile views](https://komarev.com/ghpvc/?username=Kkartik14&color=blue)
-
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkartik14&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kkartik14&theme=tokyonight)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Kkartik14&theme=onedark&no-frame=true&row=1&column=6)
-
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
