@@ -15,7 +15,7 @@
 ### whoami
 
 ```bash
-┌─ kartik@github ──────────────────────────────────────
+┌─ kartikgupta1474@gmail.com ──────────────────────────
 │ $ whoami
 │ > AI Agents Engineer @ Swiggy
 │
