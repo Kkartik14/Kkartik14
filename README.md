@@ -34,33 +34,12 @@
 
 ---
 
-### Featured Work
-
-<p align="center">
-  <a href="https://github.com/Kkartik14/VeriStream">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkartik14&repo=VeriStream&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Kkartik14/MCP-Netsuite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkartik14&repo=MCP-Netsuite&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kkartik14/AEC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkartik14&repo=AEC&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Kkartik14/Curvetopia_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkartik14&repo=Curvetopia_Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
----
-
 ### GitHub in numbers
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kkartik14&show_icons=true&theme=buefy&hide_border=true" height="170" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkartik14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
