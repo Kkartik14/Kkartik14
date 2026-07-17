@@ -34,25 +34,6 @@
 
 ---
 
-### GitHub in numbers
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkartik14&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=3178C6&point=FFFFFF&area=true&area_color=3178C6" alt="commit activity" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkartik14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkartik14&layout=compact&theme=buefy&hide_border=true&langs_count=8" height="170" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Kkartik14&theme=tokyonight&hide_border=true&background=0D1117" />
-    <img src="https://streak-stats.demolab.com?user=Kkartik14&theme=buefy&hide_border=true" height="170" />
-  </picture>
-</p>
-
----
-
 ### Let's talk
 
 <p align="center">
