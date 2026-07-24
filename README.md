@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>I build AI agents and backend systems that do real work — not demos.</i>
+  <i>I build AI agents and backend systems that do real work - not demos.</i>
 </p>
 
 ---
