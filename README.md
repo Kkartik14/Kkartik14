@@ -20,7 +20,7 @@
 │ > Backend Engineer @ Swish
 │
 │ $ cat focus.md
-| > distributed systems & backend infra
+│ > distributed systems & backend infra
 │ > multi-agent orchestration
 │ > eval pipelines & production LLM tooling
 │
