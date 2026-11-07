@@ -17,12 +17,12 @@
 ```bash
 ┌─ kartikgupta1474@gmail.com ──────────────────────────
 │ $ whoami
-│ > AI Agents Engineer @ Swiggy
+│ > Backend Engineer @ Swish
 │
 │ $ cat focus.md
+| > distributed systems & backend infra
 │ > multi-agent orchestration
 │ > eval pipelines & production LLM tooling
-│ > distributed systems & backend infra
 │
 │ $ ls ~/obsessions
 │ > traces  retries  latency  cost  guardrails
